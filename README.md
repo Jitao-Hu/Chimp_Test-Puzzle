@@ -1,7 +1,7 @@
 # Chimp_Test-Puzzle
 Chimp_Test-Puzzle is designed by Jonathan Lam and Jerry Hu for the escape room. Our code is saved in the main.c file under the src folder and based on the sample code created by professor.Bernie who waorke at University of Waterloo ECE department.
 
-**Introduction**
+## Introduction
 
 
 Our Chimp-test Puzzle would display a randomized sequence of 12 numbers on a single-digit 7-segment LED display at a challenging pace for each number. 
